@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielle-elak!
 - 👀 I’m interested in learning as many coding languages as I can.
-- 🌱 I’m currently learning full stack web development with UC Berkeley Extension.
+- 🌱 I've completed my certification in full stack web development with UC Berkeley Extension.
 - 💞️ I’m looking to collaborate on anything space related!
 - 📫 How to reach me: https://www.linkedin.com/in/arielle-schlickman-elak/
 
